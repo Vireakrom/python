@@ -26,3 +26,4 @@ By coding along with me in this workshop, you'll:
 * Learn to use Python packages from the standard library, as well as how to find and install external libraries.
 * Learn how to work with files on your filesystem by reading and writing to them.
 * Write programs that interact with APIs by sending requests and receiving responses.
+* m
